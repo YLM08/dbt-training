@@ -1,1 +1,0 @@
-select * from RAW.GLOBALMART.CUSTOMERS1
